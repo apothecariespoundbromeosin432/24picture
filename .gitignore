@@ -1,0 +1,17 @@
+# OS / IDE noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Editor backups
+*~
+*.bak
+*.tmp
+
+# Local-only notes
+NOTES.md
+TODO.md
+.private/

